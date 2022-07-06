@@ -55,17 +55,16 @@ h1 {
 
 .price-sec {
     display: flex;
-    width: 90%;
-    padding-left: 7.5%;
-    margin-top: 0%;
+    width: 50%;
+    padding-left: 25%;
 }
 
 .price-sec p {
     font-family: arial;
     width: 25%;
     background-color: #bdbdbd38;
-    padding: 80px 5px 80px 5px;
-    margin-right: 5%;
+    padding: 25px;
+    margin-right: 2%;
     text-align: center;
     font-size: 35px;
     border-radius: 10px;
@@ -182,10 +181,10 @@ h1 {
 }
 
 .emailInp {
-
     background-color: antiquewhite;
     padding: 7%;
-    padding-left: 35%;
+    margin: 0 300px;
+    padding-left: 25%;
 }
 
 .emailInp .mailinput {
